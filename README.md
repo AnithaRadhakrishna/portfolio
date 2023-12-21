@@ -11,18 +11,17 @@
 - Mithibai College 2020 - Bachelor of Science in Chemistry
 
 ### Projects
-
-**Insurance Claim Pattern Analysis and storytelling using Tableau**
+- **Insurance Claim Pattern Analysis and storytelling using Tableau**
 - Built dashboards and storyboard to analyze car insurance data, estimating claim patterns for policy optimization and enhancing user benefits while maximizing company premiums.
-**Analyzing YouTube Dislikes Trends using Python libraries**
+- **Analyzing YouTube Dislikes Trends using Python libraries**
 - https://drive.google.com/file/d/1bXkTDpfZDyC47Cr4PI9T6vfwQThL0Vzm/view?usp=sharing
 - Analyzed YouTube dislikes dataset. EDA using Pandas & Numpy to uncover insights on trending videos in USA, Canada, GB. Explored dislikes, likes, views, and more, showcasing proficiency in data analysis techniques for informed insights.
-**Travelers Database Design and Querying using MySQL**
+- **Travelers Database Design and Querying using MySQL**
 - Demonstrated proficiency in MySQL database management through tasks such as schema creation, data insertion, and skilled querying, highlighting practical expertise
-**Sales Data Analysis using Power BI**
+- **Sales Data Analysis using Power BI**
 - https://drive.google.com/file/d/1bXkTDpfZDyC47Cr4PI9T6vfwQThL0Vzm/view?usp=sharing
 - Analyzed a large sales dataset, identifying trends, top-selling products, and key metric by data visualizations, and presented actionable insights showcasing my expertise in data interpretation and dashboard building.
-**Predicting important features for pricing a property using MS Excel**
+- **Predicting important features for pricing a property using MS Excel**
 - https://docs.google.com/spreadsheets/d/1Qp8vc-fyBnQLZhqJW2aA5aEVcFQWswna/edit?usp=sharing&ouid=111240883267161346333&rtpof=true&sd=true
 - Conducted exploratory data analysis (EDA) and built a linear regression model to analyse relevant features for house pricing using Microsoft Excel.
   
