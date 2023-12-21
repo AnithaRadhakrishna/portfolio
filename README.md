@@ -1,5 +1,5 @@
 # Data Analyst
-
+### Technical Skills: Python, SQL, Tableau, Stastics, Power BI, Microsoft Excel
 ### Internships
 - Meriskill Data analyst internship (November 2023- December 2023): Delved into the world of Sales and healthcare analytics, focusing on analyzing sales of products and diabetes patient data. Leveraging powerful techniques such as decision trees, data visualization, and logistic regression which aim to gain valuable insights.
 - KPMG AU Data Analytics Job Simulation on Forage (November 2023): Assessed data quality and completeness in preparation for analysis, Analyzed data to target high-value customers based on demographics and attributes, Developed dashboards to communicate findings with visuals.
